@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">A frontend web developer</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?riyaz350=vn7n24fzkq&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyaz350&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyaz350&theme=monokai)
+
 
 
 
