@@ -2,22 +2,22 @@
 
  
 
-<div style="text-align: center; border: 1px solid #ddd; padding: 10px;">
+<div style="text-align: center; border: 1px solid #ddd; padding: 10px; align:center">
   
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">A frontend web developer</h3>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyaz350&theme=monokai" alt="GitHub Profile Summary Card" />
 
-<div style="">
+
   <!-- Repos per Language -->
-  <img style="width: 100% " src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyaz350&theme=monokai" alt="Repos per Language" />
+  <img style="width: 60%; align:center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyaz350&theme=monokai" alt="Repos per Language" />
 
   <!-- Stats -->
-  <img style="width: 100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyaz350&theme=monokai" alt="Stats" />
+  <img style="width: 60%; align:center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyaz350&theme=monokai" alt="Stats" />
 
   <!-- Productive Time -->
-  <img style="width: 100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyaz350&theme=monokai&utcOffset=8" alt="Productive Time" />
-</div>
+  <img style="width: 60%; align:center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyaz350&theme=monokai&utcOffset=8" alt="Productive Time" />
+
 
 </div>
 
