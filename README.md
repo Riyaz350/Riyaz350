@@ -13,4 +13,4 @@
 
 <p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaz350&" alt="riyaz350" /></p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riyaz350&theme=2077
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username="Riyaz350"&theme="2077"
