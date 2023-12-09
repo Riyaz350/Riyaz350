@@ -1,11 +1,18 @@
 ![Riyaz AHmed-min](https://github.com/Riyaz350/Riyaz350/assets/50285753/48b34558-fdc5-43b9-b0b9-623241b25430)
 
- 
+ - 🔭 I’m currently trying to master **MERN stack.**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 🤝 I’m looking for **a MERN stack job.**
+
+- 💬 Ask me about **HTML, CSS, React, Tailwind and JavaScript... I'll help as much as I can.**
+
+- 📫 How to reach me **riyaz3582@gmail.com**
 
 <div style="text-align: center; border: 1px solid #ddd; padding: 10px; align:center">
   
-<h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
-<h3 align="center">A frontend web developer</h3>
+
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyaz350&theme=monokai" alt="GitHub Profile Summary Card" />
 
 
