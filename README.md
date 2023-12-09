@@ -1,18 +1,6 @@
 ![Riyaz AHmed-min](https://github.com/Riyaz350/Riyaz350/assets/50285753/48b34558-fdc5-43b9-b0b9-623241b25430)
 
- <style>
-    .image-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 16px; /* Adjust the gap as needed */
-    }
-
-    .image-grid img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-  </style>
+ 
 
 <div style="text-align: center; border: 1px solid #ddd; padding: 10px;">
   
