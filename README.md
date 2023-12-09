@@ -6,6 +6,9 @@
 
 <p><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=riyaz350&theme=monokai" alt="riyaz350" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyaz350&show_icons=true&locale=en" alt="riyaz350" /></p>
+
+
 
 
 <p><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaz350&theme=shadow-red" alt="riyaz350" /></p>
