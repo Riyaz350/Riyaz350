@@ -1,3 +1,4 @@
+<img src="your-image-url" alt="Banner Image" style="width: 100%; height: auto;" />
 
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">A frontend web developer</h3>
