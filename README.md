@@ -1,4 +1,3 @@
-https://github.com/Riyaz350/Riyaz350/assets/50285753/7549be04-bd4a-48da-9011-d4dc09756add
 
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">A frontend web developer</h3>
