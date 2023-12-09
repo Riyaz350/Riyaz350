@@ -1,4 +1,4 @@
-<img src="your-image-url" alt="Banner Image" style="width: 100%; height: auto;" />
+![Add a heading](https://github.com/Riyaz350/Riyaz350/assets/50285753/57814645-3726-46f0-b6b9-5757f5356875)
 
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">A frontend web developer</h3>
