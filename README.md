@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">A frontend web developer</h3>
 
-<p><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyaz350&theme=monokai" alt="riyaz350" /></p>
+<p><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=riyaz350&theme=monokai" alt="riyaz350" /></p>
 
 
 
