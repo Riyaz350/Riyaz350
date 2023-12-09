@@ -1,12 +1,42 @@
 ![Riyaz AHmed-min](https://github.com/Riyaz350/Riyaz350/assets/50285753/48b34558-fdc5-43b9-b0b9-623241b25430)
 
+ <style>
+    .image-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px; /* Adjust the gap as needed */
+    }
 
+    .image-grid img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+
+<div style="text-align: center; border: 1px solid #ddd; padding: 10px;">
+  
 <h1 align="center">Hi 👋, I'm Riyaz Ahmed</h1>
 <h3 align="center">A frontend web developer</h3>
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyaz350&theme=monokai" alt="GitHub Profile Summary Card" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyaz350&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyaz350&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyaz350&theme=monokai&utcOffset=8)
+<div style="">
+  <!-- Repos per Language -->
+  <img style="width: 100% " src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyaz350&theme=monokai" alt="Repos per Language" />
+
+  <!-- Stats -->
+  <img style="width: 100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyaz350&theme=monokai" alt="Stats" />
+
+  <!-- Productive Time -->
+  <img style="width: 100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riyaz350&theme=monokai&utcOffset=8" alt="Productive Time" />
+</div>
+
+</div>
+
+
+
+
+
 
 
 
