@@ -1,5 +1,8 @@
 ![Riyaz AHmed-min](https://github.com/Riyaz350/Riyaz350/assets/50285753/48b34558-fdc5-43b9-b0b9-623241b25430)
 
+<h3 align="left">About Me:</h3>
+
+
  - 🔭 I’m currently trying to master **MERN stack.**
 
 - 🌱 I’m currently learning **Next.js**
