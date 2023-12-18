@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, React, Tailwind and JavaScript... I'll help as much as I can.**
 
-- 📫 How to reach me **riyaz3582@gmail.com**
+- 📫 How to reach me **skriyazahmed200@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
