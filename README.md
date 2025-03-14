@@ -1,4 +1,4 @@
-![Riyaz AHmed (1) (1)](https://github.com/Riyaz350/Riyaz350/assets/50285753/c53ced87-c260-48cb-81ae-4dfd549bdb4d)
+![Riyaz AHmed (1) (1)](https://github.com/Riyaz350/Riyaz350/blob/9191523c4279f8e983013f987490cba4a37e3c42/Riyaz%20AHmed%20(1).png)
 
 
 <h2 align="left">About Me:</h2>
@@ -62,3 +62,4 @@
 
 
 
+](https://github.com/Riyaz350/Riyaz350/blob/9191523c4279f8e983013f987490cba4a37e3c42/Riyaz%20AHmed%20(1).png)
