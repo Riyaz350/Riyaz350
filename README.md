@@ -3,10 +3,9 @@
 
 <h2 align="left">About Me:</h2>
 
-
- - 🔭 I’m currently trying to master **MERN stack.**
-
-- 🌱 I’m currently learning **Next.js**
+ - 🌱 I’m A Full Stack Web Developer
+   
+ - 🔭 Learning new technologies everyday.
 
 - 🤝 I’m looking for **a MERN stack job.**
 
