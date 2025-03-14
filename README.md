@@ -7,8 +7,6 @@
    
  - 🔭 Learning new technologies everyday.
 
-- 🤝 I’m looking for **a MERN stack job.**
-
 - 💬 Ask me about **HTML, CSS, React, Tailwind and JavaScript... I'll help as much as I can.**
 
 - 📫 How to reach me **skriyazahmed200@gmail.com**
